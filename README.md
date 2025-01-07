@@ -13,8 +13,8 @@ _Disclaimer: the ksafe script is written in zsh. I do not guarantee its behaviou
 
 1. Clone the repository to your local machine
 2. Move to the cloned repository
-3. If this is your first installation, execute `install.sh`.
-4. If you wish to reinstall Ksafe, execute `reinstall.sh`. If you downloaded a more recent version of Ksafe, this will update the installed version.
+3. If this is your first installation, execute `sudo ./install.sh`.
+4. If you wish to reinstall Ksafe, execute `sudo ./reinstall.sh`. If you downloaded a more recent version of Ksafe, this will update the installed version.
 
 The installed shell script and configuration file will be located at `~/.ksafe/`.
 
